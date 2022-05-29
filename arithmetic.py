@@ -1,0 +1,13 @@
+a=10
+b=30
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(b%3)
+print(b%7)
+print(a**2)
+print(5**4)
+print(10/3)
+print(10//3)
+print(1//3)

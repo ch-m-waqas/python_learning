@@ -1,0 +1,5 @@
+print("Hello World")
+print('20+50')
+print('hello world','welcome to lahore',80)
+print(10>5)
+print(5<4)
